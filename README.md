@@ -4,3 +4,28 @@ In the era of digital transformation, the concept of “Digital Twins” has eme
 
 Saturday 11th November, Universitat de Barcelona, 14:00pm
 https://pybcn.org/events/pyday_bcn/pyday_bcn_2023/
+
+## Requirements
+
+- Clone the repo
+``` 
+git clone https://github.com/alabarga/synthetic-data-pybcn
+```
+
+- Create an environment
+```
+cd synthetic-data-pybcn
+
+python -m venv .venv
+```
+
+- Activate the environment
+
+```
+source .venv/bin/activate
+```
+
+- Install requirements
+```
+python -m pip install -r requirements.txt
+```
